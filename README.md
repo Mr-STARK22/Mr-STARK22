@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vannaboth.  
 
-🚀 **Aspiring DevOps & Cybersecurity Engineer** | 🔐 Passionate about Security & Automation | 🛠️ Exploring Cloud & SIEM Tools  
+🚀 **Junoir DevOps & Beginner Cybersecurity Engineer** | 🔐 Passionate about Security & Automation | 🛠️ Exploring Cloud & SIEM Tools  
 
 ---
 
@@ -17,15 +17,6 @@
 - 🔍 Interested in **threat detection, incident response, and infrastructure automation**  
 - 💡 Working on **Wazuh & MISP integrations for security monitoring**  
 - 🎯 Goal: **Earn AWS Security or Certified Kubernetes Security Specialist (CKS)**  
-
----
-
-### 🏆 Featured Projects  
-🔹 **[SIEM Setup with Wazuh & Sysmon](https://github.com/yourusername/wazuh-sysmon-setup)** – Deploying Wazuh in a Kubernetes cluster  
-🔹 **[Ansible Automation for Security](https://github.com/yourusername/ansible-security-playbooks)** – Automating security hardening with Ansible  
-🔹 **[Threat Intel with MISP](https://github.com/yourusername/misp-threat-intel)** – Automating MISP for threat intelligence feeds  
-
----
 
 ### 📈 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=StrakSelby&show_icons=true&theme=tokyonight)  

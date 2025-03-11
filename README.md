@@ -12,6 +12,12 @@
 
 ---
 
+### 🏅 Certifications  
+- **Certified in Cybersecurity (CC)** – [(ISC)² Certified in Cybersecurity](https://www.isc2.org/Certifications/CC)
+![CC Badge](https://www.isc2.org/Images/Badges/CC.png)
+
+---
+
 ### 📌 About Me  
 - 🌱 Currently learning **cloud security & Kubernetes security**  
 - 🔍 Interested in **threat detection, incident response, and infrastructure automation**  

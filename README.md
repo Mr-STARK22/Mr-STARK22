@@ -13,8 +13,7 @@
 ---
 
 ### 🏅 Certifications  
-- **ISC2 Certified in Cybersecurity (CC)** – [(ISC)² Certified in Cybersecurity]([https://www.isc2.org/Certifications/CC](https://www.credly.com/badges/4475edec-9c6c-4f2c-a8fd-26001739fdec/public_url))
-
+- **ISC2 Certified in Cybersecurity (CC)** – [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/4475edec-9c6c-4f2c-a8fd-26001739fdec/public_url)
 ---
 
 ### 📌 About Me  

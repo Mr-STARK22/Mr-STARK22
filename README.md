@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vannaboth.  
 
-🚀 **Junoir DevOps & Beginner Cybersecurity Engineer** | 🔐 Passionate about Security & Automation | 🛠️ Exploring Cloud & SIEM Tools  
+🚀 **Junior DevOps & Starter Cybersecurity Engineer** | 🔐 Passionate about Security & Automation | 🛠️ Exploring Cloud & SIEM Tools  
 
 ---
 

@@ -1,6 +1,4 @@
-😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭
-😭😭😭 Hi, I'm Vannaboth. 😭😭😭
-😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭
+😭😭😭 Hi, I'm Vannaboth. 
 🚀 **Junior DevOps & Starter Cybersecurity Engineer** | 🔐 Passionate about Security & Automation | 🛠️ Exploring Cloud & SIEM Tools  
 
 ---

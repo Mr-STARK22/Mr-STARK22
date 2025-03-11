@@ -16,7 +16,8 @@
 - 🌱 Currently learning **cloud security & Kubernetes security**  
 - 🔍 Interested in **threat detection, incident response, and infrastructure automation**  
 - 💡 Working on **Wazuh & MISP integrations for security monitoring**  
-- 🎯 Goal: **Earn AWS Security or Certified Kubernetes Security Specialist (CKS)**  
+- 🎯 Goal: **Earn AWS Security or Certified Kubernetes Security Specialist (CKS)**
+- ⭐ Dream: **Become a redteamer**
 
 ### 📈 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=StrakSelby&show_icons=true&theme=tokyonight)  

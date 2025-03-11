@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Vannaboth.  
 
 🚀 **Aspiring DevOps & Cybersecurity Engineer** | 🔐 Passionate about Security & Automation | 🛠️ Exploring Cloud & SIEM Tools  
 
@@ -6,8 +6,8 @@
 
 ### 🛠️ Tech Stack  
 - **🔹 DevOps:** Docker, Kubernetes, Ansible, Terraform, CI/CD (GitHub Actions, Jenkins)  
-- **🔹 Security:** Wazuh, Sysmon, MISP, SIEM, OSINT, Threat Hunting  
-- **🔹 Cloud & Infra:** AWS, Azure, Linux, Nginx  
+- **🔹 Security:** Wazuh, Sysmon, MISP, SIEM, Threat Hunting  
+- **🔹 Cloud & Infra:** AWS, DigitalOcean, Linux, Nginx  
 - **🔹 Scripting & Automation:** Bash, Python  
 
 ---
@@ -28,12 +28,12 @@
 ---
 
 ### 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=StrakSelby&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StrakSelby&layout=compact&theme=tokyonight)  
 
 ---
 
 ### 📫 Connect with Me  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | ✉️ [Email](mailto:your.email@example.com) | 📝 [Blog/Portfolio](https://yourwebsite.com)  
+🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | ✉️ [Email](mailto:vannaboth90@gmail.com) 
 
 💡 **"Securing & automating one system at a time!"**  

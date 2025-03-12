@@ -30,6 +30,6 @@
 ---
 
 ### 📫 Connect with Me  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | ✉️ [Email](mailto:vannaboth90@gmail.com) 
+🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/meng-vannaboth-65150228b/)) | ✉️ [Email](mailto:vannaboth90@gmail.com) 
 
 💡 **"Securing & automating one system at a time!"**  

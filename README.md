@@ -3,9 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mr-STARK22&label=Profile%20Views&color=cyan&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Mr-STARK22&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views">
 </p>
-
 ---
 
 ## 🌌 **About Me**  

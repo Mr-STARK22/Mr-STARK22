@@ -32,9 +32,15 @@ System.Modules = ["DevOps 🚀", "Cloud ☁️", "Cybersecurity 🔐", "Automati
 ![Docker](https://img.shields.io/badge/Docker-0FF0FC?style=for-the-badge&logo=docker&logoColor=black)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-00FFD1?style=for-the-badge&logo=kubernetes&logoColor=black)  
 ![Terraform](https://img.shields.io/badge/Terraform-7F00FF?style=for-the-badge&logo=terraform&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FFAA00?style=for-the-badge&logo=amazonaws&logoColor=black)  
+![AWS](https://img.shields.io/badge/AWS-FFAA00?style=for-the-badge&logo=amazonaws&logoColor=black)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) 
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+#### 🌐 **Web Servers**  
+![Apache](https://img.shields.io/badge/Apache-FF0000?style=for-the-badge&logo=apache&logoColor=white)  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
+![Certbot](https://img.shields.io/badge/Certbot-000000?style=for-the-badge&logo=certbot&logoColor=white)
 
 #### 🔥 **Security & SIEM**  
 ![Wazuh](https://img.shields.io/badge/Wazuh-0FF0FC?style=for-the-badge&logo=wazuh&logoColor=black)  

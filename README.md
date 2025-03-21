@@ -24,7 +24,7 @@
 - ⭐ Dream: **Become a redteamer**
 
 ### 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=StrakSelby&show_icons=true&theme=tokyonight)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-STARK22&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StrakSelby&layout=compact&theme=tokyonight)  
 
 ---

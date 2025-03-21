@@ -42,10 +42,12 @@ System.Modules = ["DevOps 🚀", "Cloud ☁️", "Cybersecurity 🔐", "Automati
 ![MISP](https://img.shields.io/badge/MISP-FF007F?style=for-the-badge&logo=misp&logoColor=white)  
 ![Sysmon](https://img.shields.io/badge/Sysmon-7D00FF?style=for-the-badge&logo=windows&logoColor=black)
 ![Suricata](https://img.shields.io/badge/Suricata-FF6F00?style=for-the-badge&logo=suricata&logoColor=white)
+![Greenbone](https://img.shields.io/badge/Greenbone-00B140?style=for-the-badge&logo=greenbone&logoColor=white)
 
 #### 💻 **Scripting & Automation**  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 

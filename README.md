@@ -80,6 +80,15 @@ System.Modules = ["DevOps 🚀", "Cloud ☁️", "Cybersecurity 🔐", "Automati
 
 ---
 
+---
+
+#### 🤖 **AI**  
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://img.shields.io/badge/ChatGPT-0078D4?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+</div>
+
+---
+
 </div>
 
 

@@ -31,57 +31,58 @@ System.Modules = ["DevOps 🚀", "Cloud ☁️", "Cybersecurity 🔐", "Automati
 
 #### 🚀 **DevOps & Cloud**  
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  ![Docker](https://img.shields.io/badge/Docker-0FF0FC?style=for-the-badge&logo=docker&logoColor=black)  
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-00FFD1?style=for-the-badge&logo=kubernetes&logoColor=black)  
-  ![Terraform](https://img.shields.io/badge/Terraform-7F00FF?style=for-the-badge&logo=terraform&logoColor=white)  
-  ![AWS](https://img.shields.io/badge/AWS-FFAA00?style=for-the-badge&logo=amazonaws&logoColor=black)  
-  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)  
-  ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)  
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+  <img src="https://img.shields.io/badge/Docker-0FF0FC?style=for-the-badge&logo=docker&logoColor=black" alt="Docker"/>  
+  <img src="https://img.shields.io/badge/Kubernetes-00FFD1?style=for-the-badge&logo=kubernetes&logoColor=black" alt="Kubernetes"/>  
+  <img src="https://img.shields.io/badge/Terraform-7F00FF?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>  
+  <img src="https://img.shields.io/badge/AWS-FFAA00?style=for-the-badge&logo=amazonaws&logoColor=black" alt="AWS"/>  
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>  
+  <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>  
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
 </div>
 
 ---
 
 #### 🌐 **Web Servers**  
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  ![Apache](https://img.shields.io/badge/Apache-FF0000?style=for-the-badge&logo=apache&logoColor=white)  
-  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
-  ![Certbot](https://img.shields.io/badge/Certbot-000000?style=for-the-badge&logo=certbot&logoColor=white)
+  <img src="https://img.shields.io/badge/Apache-FF0000?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>  
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>  
+  <img src="https://img.shields.io/badge/Certbot-000000?style=for-the-badge&logo=certbot&logoColor=white" alt="Certbot"/>
 </div>
 
 ---
 
 #### 🔥 **Security & SIEM**  
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  ![Keycloak](https://img.shields.io/badge/Keycloak-DA5B4E?style=for-the-badge&logo=keycloak&logoColor=white)  
-  ![Wazuh](https://img.shields.io/badge/Wazuh-0FF0FC?style=for-the-badge&logo=wazuh&logoColor=black)  
-  ![MISP](https://img.shields.io/badge/MISP-FF007F?style=for-the-badge&logo=misp&logoColor=white)  
-  ![Sysmon](https://img.shields.io/badge/Sysmon-7D00FF?style=for-the-badge&logo=windows&logoColor=black)  
-  ![Suricata](https://img.shields.io/badge/Suricata-FF6F00?style=for-the-badge&logo=suricata&logoColor=white)  
-  ![Greenbone](https://img.shields.io/badge/Greenbone-00B140?style=for-the-badge&logo=greenbone&logoColor=white)
+  <img src="https://img.shields.io/badge/Keycloak-DA5B4E?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak"/>  
+  <img src="https://img.shields.io/badge/Wazuh-0FF0FC?style=for-the-badge&logo=wazuh&logoColor=black" alt="Wazuh"/>  
+  <img src="https://img.shields.io/badge/MISP-FF007F?style=for-the-badge&logo=misp&logoColor=white" alt="MISP"/>  
+  <img src="https://img.shields.io/badge/Sysmon-7D00FF?style=for-the-badge&logo=windows&logoColor=black" alt="Sysmon"/>  
+  <img src="https://img.shields.io/badge/Suricata-FF6F00?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata"/>  
+  <img src="https://img.shields.io/badge/Greenbone-00B140?style=for-the-badge&logo=greenbone&logoColor=white" alt="Greenbone"/>
 </div>
 
 ---
 
 #### 💻 **Scripting & Automation**  
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=black)  
-  ![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black)  
-  ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=black" alt="Bash"/>  
+  <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>  
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
 </div>
 
 ---
 
 #### 🗄 **Databases**  
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>  
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>  
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </div>
 
 ---
 
 </div>
+
 
 
 ---

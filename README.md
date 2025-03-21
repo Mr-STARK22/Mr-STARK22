@@ -42,7 +42,8 @@ System.Modules = ["DevOps 🚀", "Cloud ☁️", "Cybersecurity 🔐", "Automati
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
 ![Certbot](https://img.shields.io/badge/Certbot-000000?style=for-the-badge&logo=certbot&logoColor=white)
 
-#### 🔥 **Security & SIEM**  
+#### 🔥 **Security & SIEM**
+![Keycloak](https://img.shields.io/badge/Keycloak-DA5B4E?style=for-the-badge&logo=keycloak&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-0FF0FC?style=for-the-badge&logo=wazuh&logoColor=black)  
 ![MISP](https://img.shields.io/badge/MISP-FF007F?style=for-the-badge&logo=misp&logoColor=white)  
 ![Sysmon](https://img.shields.io/badge/Sysmon-7D00FF?style=for-the-badge&logo=windows&logoColor=black)  

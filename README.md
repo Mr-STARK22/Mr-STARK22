@@ -33,20 +33,20 @@ System.Modules = ["DevOps 🚀", "Cloud ☁️", "Cybersecurity 🔐", "Automati
 ![Docker](https://img.shields.io/badge/Docker-0FF0FC?style=for-the-badge&logo=docker&logoColor=black)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-00FFD1?style=for-the-badge&logo=kubernetes&logoColor=black)  
 ![Terraform](https://img.shields.io/badge/Terraform-7F00FF?style=for-the-badge&logo=terraform&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FFAA00?style=for-the-badge&logo=amazonaws&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FFAA00?style=for-the-badge&logo=amazonaws&logoColor=black)  
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
 
 #### 🔥 **Security & SIEM**  
 ![Wazuh](https://img.shields.io/badge/Wazuh-0FF0FC?style=for-the-badge&logo=wazuh&logoColor=black)  
 ![MISP](https://img.shields.io/badge/MISP-FF007F?style=for-the-badge&logo=misp&logoColor=white)  
-![Sysmon](https://img.shields.io/badge/Sysmon-7D00FF?style=for-the-badge&logo=windows&logoColor=black)
-![Suricata](https://img.shields.io/badge/Suricata-FF6F00?style=for-the-badge&logo=suricata&logoColor=white)
-![Greenbone](https://img.shields.io/badge/Greenbone-00B140?style=for-the-badge&logo=greenbone&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-7D00FF?style=for-the-badge&logo=windows&logoColor=black)  
+![Suricata](https://img.shields.io/badge/Suricata-FF6F00?style=for-the-badge&logo=suricata&logoColor=white)  
+![Greenbone](https://img.shields.io/badge/Greenbone-00B140?style=for-the-badge&logo=greenbone&logoColor=white)  
 
 #### 💻 **Scripting & Automation**  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black)  
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---

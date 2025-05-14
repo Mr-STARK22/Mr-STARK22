@@ -78,20 +78,12 @@ System.Modules = ["DevOps 🚀", "Cloud ☁️", "Cybersecurity 🔐", "Automati
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </div>
 
----
-
----
-
----
-
 </div>
 
 ---
 
-## 🏅 **Certifications**  
-
 🎖️ **ISC2 Certified in Cybersecurity (CC)**  
-[![Credly Badge](https://images.credly.com/size/340x340/images/5c1db1d3-4b48-4b53-9b61-8ce3c1d08598/image.png)](https://www.credly.com/badges/4475edec-9c6c-4f2c-a8fd-26001739fdec/public_url)
+[View my badge on Credly](https://www.credly.com/badges/4475edec-9c6c-4f2c-a8fd-26001739fdec/public_url)
   
 ---
 

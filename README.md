@@ -1,4 +1,4 @@
-<h1 align="center">  
+![image](https://github.com/user-attachments/assets/424712c8-2d73-4ce3-a06e-ad9a6fa75957)<h1 align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&color=0FF0FC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%F0%9F%9A%80+Hello%2C+I+am+Vannaboth+%F0%9F%91%8B;DevOps+%26+Cybersecurity+Engineer+%F0%9F%94%90;Automating+%26+Securing+the+Future+%E2%9A%A1" alt="Typing SVG">
 </h1>
 
@@ -82,23 +82,16 @@ System.Modules = ["DevOps 🚀", "Cloud ☁️", "Cybersecurity 🔐", "Automati
 
 ---
 
-#### 🤖 **AI**  
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://img.shields.io/badge/ChatGPT-0078D4?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-</div>
-
 ---
 
 </div>
-
-
 
 ---
 
 ## 🏅 **Certifications**  
 
 🎖️ **ISC2 Certified in Cybersecurity (CC)**  
-[![Credly Badge](https://images.credly.com/size/140x140/images/4475edec-9c6c-4f2c-a8fd-26001739fdec.png)](https://www.credly.com/badges/4475edec-9c6c-4f2c-a8fd-26001739fdec/public_url)  
+[![Credly Badge]([https://images.credly.com/size/140x140/images/4475edec-9c6c-4f2c-a8fd-26001739fdec.png](https://www.credly.com/org/isc2/badge/certified-in-cybersecurity-cc))](https://www.credly.com/badges/4475edec-9c6c-4f2c-a8fd-26001739fdec/public_url)  
 
 ---
 

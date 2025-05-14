@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/424712c8-2d73-4ce3-a06e-ad9a6fa75957)<h1 align="center">  
+<h1 align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&color=0FF0FC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%F0%9F%9A%80+Hello%2C+I+am+Vannaboth+%F0%9F%91%8B;DevOps+%26+Cybersecurity+Engineer+%F0%9F%94%90;Automating+%26+Securing+the+Future+%E2%9A%A1" alt="Typing SVG">
 </h1>
 

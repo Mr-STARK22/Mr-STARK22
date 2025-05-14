@@ -91,8 +91,8 @@ System.Modules = ["DevOps 🚀", "Cloud ☁️", "Cybersecurity 🔐", "Automati
 ## 🏅 **Certifications**  
 
 🎖️ **ISC2 Certified in Cybersecurity (CC)**  
-[![Credly Badge]([https://images.credly.com/size/140x140/images/4475edec-9c6c-4f2c-a8fd-26001739fdec.png](https://www.credly.com/org/isc2/badge/certified-in-cybersecurity-cc))](https://www.credly.com/badges/4475edec-9c6c-4f2c-a8fd-26001739fdec/public_url)  
-
+[![Credly Badge](https://images.credly.com/size/340x340/images/5c1db1d3-4b48-4b53-9b61-8ce3c1d08598/image.png)](https://www.credly.com/badges/4475edec-9c6c-4f2c-a8fd-26001739fdec/public_url)
+  
 ---
 
 ## 🏆 **GitHub Trophies**  
